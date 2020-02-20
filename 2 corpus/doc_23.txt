@@ -1,0 +1,6 @@
+<DOC>
+<DOCNO>doc_23/0023</DOCNO>
+<TEXT>
+When the batting team is number of overs is reduced the number of powerplay overs shall be reduced in accordance with the table below For the sake of clarity it should be noted that the table shall apply to both the first and second innings of the match.
+</TEXT>
+</DOC>
